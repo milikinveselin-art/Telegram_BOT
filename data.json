@@ -1,0 +1,213 @@
+{
+  "car": {
+    "gtp": "24.01.2026",
+    "vinetka": "30.12.2025",
+    "maslo": "25.04.2026",
+    "obslujvane": ""
+  },
+  "birthdays": [
+    {
+      "name": "Аз",
+      "date": "01.01.1998"
+    },
+    {
+      "name": "Тате",
+      "date": "23.09.1968"
+    },
+    {
+      "name": "Цвети",
+      "date": "30.01.1998"
+    },
+    {
+      "name": "Мама",
+      "date": "20.03.1969"
+    },
+    {
+      "name": "Маги",
+      "date": "09.04.1992"
+    }
+  ],
+  "tasks": [],
+  "orders": {
+    "suppliers": [
+      {
+        "name": "ОМК",
+        "days": [
+          "Понеделник",
+          "Петък"
+        ]
+      },
+      {
+        "name": "Вели (Плодове/зеленчуци)",
+        "days": [
+          "Понеделник",
+          "Петък"
+        ]
+      },
+      {
+        "name": "Кока-Кола",
+        "days": [
+          "Понеделник"
+        ]
+      },
+      {
+        "name": "Аник",
+        "days": [
+          "Понеделник"
+        ]
+      }
+    ]
+  },
+  "tasks_done": [],
+  "settings": {
+    "city": "Sofia",
+    "owner_chat_id": -5105541294,
+    "authorized_users": [
+      1828526836,
+      7711289828
+    ],
+    "password_salt_hex": "18d3eee4c0c34f6e244e9f667fe8e0bc",
+    "password_hash": "448e4fdbbd6a54968e43e03cdc62ab69ed97e19433896b1ed0347e62dd11296f",
+    "favorites": [
+      "dash:show",
+      "today:show",
+      "tasks:show",
+      "weather:today"
+    ],
+    "notify_hour": 9,
+    "notify_minute": 0,
+    "car_notify_days": [
+      30,
+      14,
+      7,
+      3
+    ],
+    "bdays_notify_days": [
+      7,
+      3,
+      1
+    ],
+    "tibo_notify_days": [
+      3
+    ],
+    "tibo_notify_hour": 9,
+    "tibo_notify_minute": 0,
+    "task_notify_days": [
+      1
+    ],
+    "task_notify_hours": [
+      3
+    ],
+    "pin_salt_hex": "bfc67cb77e754990d9da9ddf50235673",
+    "pin_hash": "addf142e4c9e1cb19fd91afef4fdcb5a8ba4ca18beab0bfdbc058a6fb6d3b1db",
+    "notify_log": {},
+    "known_chats": [
+      1828526836
+    ],
+    "broadcast_task_added": true,
+    "pin_enabled": true,
+    "audit_log": [
+      {
+        "ts": "31.12.2025 01:38:21",
+        "action": "start",
+        "details": {},
+        "user_id": 7711289828,
+        "user_name": "Tsvetelina Streleshka",
+        "username": null,
+        "chat_id": 7711289828,
+        "chat_title": null,
+        "chat_type": "private"
+      },
+      {
+        "ts": "31.12.2025 02:23:20",
+        "action": "task_done",
+        "details": {
+          "text": "Da se obadq na mistral",
+          "date": "30.12.2025"
+        },
+        "user_id": 1828526836,
+        "user_name": "Весо",
+        "username": null,
+        "chat_id": 1828526836,
+        "chat_title": null,
+        "chat_type": "private"
+      },
+      {
+        "ts": "31.12.2025 02:40:43",
+        "action": "task_done",
+        "details": {
+          "text": "-",
+          "date": "31.01.2025"
+        },
+        "user_id": 1828526836,
+        "user_name": "Весо",
+        "username": null,
+        "chat_id": 1828526836,
+        "chat_title": null,
+        "chat_type": "private"
+      },
+      {
+        "ts": "31.12.2025 02:40:47",
+        "action": "tasks_history_clear",
+        "details": {},
+        "user_id": 1828526836,
+        "user_name": "Весо",
+        "username": null,
+        "chat_id": 1828526836,
+        "chat_title": null,
+        "chat_type": "private"
+      },
+      {
+        "ts": "31.12.2025 03:57:13",
+        "action": "start",
+        "details": {},
+        "user_id": 1828526836,
+        "user_name": "Весо",
+        "username": null,
+        "chat_id": 1828526836,
+        "chat_title": null,
+        "chat_type": "private"
+      },
+      {
+        "ts": "31.12.2025 05:04:35",
+        "action": "start",
+        "details": {},
+        "user_id": 1828526836,
+        "user_name": "Весо",
+        "username": null,
+        "chat_id": 1828526836,
+        "chat_title": null,
+        "chat_type": "private"
+      },
+      {
+        "ts": "31.12.2025 05:04:35",
+        "action": "start",
+        "details": {},
+        "user_id": 1828526836,
+        "user_name": "Весо",
+        "username": null,
+        "chat_id": -5105541294,
+        "chat_title": "Весо & Vesso_bot",
+        "chat_type": "group"
+      }
+    ],
+    "namedays_favorites": {
+      "1828526836": [
+        "Веселин",
+        "Цветелина🫶"
+      ]
+    },
+    "ui_messages": {
+      "1828526836": 814,
+      "-5105541294": 813
+    }
+  },
+  "tibo": {
+    "bday": "25.02.2024",
+    "deworm": "15.01.2026",
+    "vaccine": "01.07.2026"
+  },
+  "reminder_log": {},
+  "undo": {},
+  "notify_log": {}
+}
